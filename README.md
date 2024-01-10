@@ -8,6 +8,8 @@ This Diabetes_readmission stimulation project is to predict the hospital readmis
 # Requirements
  Diabetes Dataset <br>
  Need some knowledge about Machine learning analysis.
+# Model training
+To train this model I have used several algorithms in finding best algo with highest presicion and acuracy.In the colab link you can find various visualizations which are related to my idea.
 # Acknowledgements
 If you want add any resources,external libraries or ideas please feel free to share with me.
 # Contact
